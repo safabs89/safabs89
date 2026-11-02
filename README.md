@@ -1,4 +1,4 @@
-<!-- BANNIÈRE PREMIUM & TEXTE ANIMÉ (effet machine à écrire automatique) -->
+<!-- BANNIÈRE PREMIUM & TEXTE ANIMÉ -->
 <p align="center">
   <img src="https://demolab.com👋+Salut,+je+suis+un+Développeur+;🔥+Bienvenue+sur+mon+profil+GitHub+;✨+Passionné+par+le+code+et+l'innovation" alt="Typing SVG" />
 </p>
@@ -7,7 +7,7 @@
   <img src="https://githubusercontent.com" width="100%" />
 </p>
 
-<!-- PRÉSENTATION EN DEUX COLONNES STYLISÉES -->
+<!-- PRÉSENTATION EN DEUX COLONNES -->
 ## 🚀 À propos de moi
 
 <table border="0">
@@ -18,7 +18,6 @@
       <p>📫 Comment me joindre : <b>votre-email@example.com</b></p>
     </td>
     <td width="40%" valign="top">
-      <!-- Un super trophée dynamique lié à vos accomplissements GitHub -->
       <img src="https://vercel.app" alt="GitHub Trophies" />
     </td>
   </tr>
@@ -26,7 +25,6 @@
 
 ## 🛠️ Mon Stack Technique
 
-<!-- Vos icônes technologiques avec un effet visuel épuré (exemples à adapter) -->
 <p align="left">
   <a href="https://mozilla.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="JavaScript" width="45" height="45" /></a>
   <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="React" width="45" height="45" /></a>
@@ -38,13 +36,11 @@
 
 ## 📊 Statistiques & Étoiles (Stars)
 
-<!-- Cartes de statistiques au design cyberpunk/sombre moderne (thème tokyonight) -->
 <p align="center">
   <img src="https://vercel.app" width="48%" alt="Stats Globales" />
   <img src="https://vercel.app" width="48%" alt="Langages les plus utilisés" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak : Affiche votre assiduité au code en temps réel -->
   <img src="https://herokuapp.com" width="97%" alt="Code Streak" />
 </p>
