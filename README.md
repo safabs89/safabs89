@@ -10,18 +10,6 @@
 
 ---
 
-## 🛠️ Mon Stack Technique
-
-<!-- Badges officiels natifs ultra-stables qui ne tombent jamais en panne -->
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-![NodeJS](https://shields.io)
-![Python](https://shields.io)
-![Docker](https://shields.io)
-![Git](https://shields.io)
-
----
-
 ## 📊 Statistiques & Profil GitHub
 
 <!-- Liens textuels propres et intégrations de secours si le cache bloque -->
