@@ -6,7 +6,7 @@
 
 💻 Passionné de développement et d'architecture logicielle, j'adore concevoir des solutions performantes et élégantes.
 🛠️ Je passe mon temps à optimiser des projets open-source et à explorer les dernières tendances technologiques.
-📫 Comment me joindre : **votre-email@example.com**
+📫 Comment me joindre : **safabenslama89@gmail.com**
 
 ---
 
