@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Salut, moi c'est [Votre Nom] !
 
-<!--
-**safabs89/safabs89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Vos statistiques globales GitHub -->
+<p align="center">
+  <img src="https://vercel.app" alt="Statistiques GitHub de VOTRE-PSEUDO" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Vos langages de programmation les plus utilisés -->
+<p align="center">
+  <img src="https://vercel.app" alt="Langages les plus utilisés" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Vos étoiles (Stars) obtenues au total -->
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
